@@ -34,10 +34,8 @@ This project is designed to demonstrate skills in **API integration, asynchronou
 
 ## Live URLs
 
-* **Frontend:** (Netlify URL)
+* **Frontend:** https://smart-lead-task.netlify.app/
 * **Backend API:** [https://smart-lead-muog.onrender.com](https://smart-lead-muog.onrender.com)
-* **GitHub Repository:** (Public GitHub Repo URL)
-
 ---
 
 ## Features
